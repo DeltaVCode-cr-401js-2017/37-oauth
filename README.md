@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 36: OAuth
+![DV](https://www.deltavcodeschool.com/wp-content/uploads/DeltaV.png) 36: OAuth
 ======
 
 ## Submission Instructions
